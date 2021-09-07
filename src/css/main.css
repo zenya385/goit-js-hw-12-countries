@@ -1,0 +1,37 @@
+.country__item {
+  font-size: 26px;
+  margin: 5px 0;
+}
+
+body {
+  position: relative;
+  padding: 30px;
+}
+
+.list-none {
+  list-style: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.country__name {
+  text-align: center;
+  font-size: 36px;
+}
+
+.country__content {
+  display: flex;
+}
+
+.item {
+  font-weight: 700;
+}
+
+.descr {
+  margin-right: 30px;
+  width: 350px;
+}

@@ -1,0 +1,1 @@
+export const BASE_FETCH_URL = 'https://restcountries.eu/rest/v2/name/';
